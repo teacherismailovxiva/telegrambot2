@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+.block{
+    border: 5px double red;
+    background-image: url(img/176410.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    border-radius: 20px;
+}
+.rasm {
+    text-align: center;
+}
+.rasm img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.list1{
+    background-image: url(img/1648625778_10-vsegda-pomnim-com-p-tropicheskii-ostrov-foto-18.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px dashed yellow;
+    border-radius: 5px;
+}
+
+.list1 li{
+    color: blue;
+    text-align: center;
+
+}
